@@ -1,3 +1,3 @@
 # TAPStarterKit
 
-Useful resources on TAP
+Useful resources on TAP technology
