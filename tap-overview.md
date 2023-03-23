@@ -8,4 +8,4 @@ Tanzu Application Platform:
 
 TAP provides a holistic workflow while creating Supply Chains in the inner-loop & outer-loop of Software Developement Lifecycle Phase to simplify DevX experience
 
-(img/inner-loop-outer-loop.png)
+![Inner-loop-Outer-loop](img/inner-loop-outer-loop.png)
